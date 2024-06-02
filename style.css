@@ -711,7 +711,7 @@ main {
 }
 
 .recipes-text {
-  max-width: 350px;
+  max-width: 300px;
   text-align: center;
 }
 
@@ -939,7 +939,7 @@ position: fixed;
 top: 0;
 right: 0;
 width: 60%;
-height: 58%;
+height: 55%;
 background-color: #ffe6d9;
 z-index: 100;
 display: -webkit-box;
@@ -1243,7 +1243,7 @@ margin-bottom: 20px;
 position: relative;
 width: 100%;
 max-width: 170px;
-top: 0;
+top: 50px;
 left: 0;
 }
 
@@ -1317,7 +1317,7 @@ padding: 0 50px 50px 50px;
 .banner__info {
 width: 100%;
 text-align: center;
-margin-top: 250px;
+margin-top: 100px;
 }
 
 .banner-title {
@@ -1403,6 +1403,10 @@ margin-bottom: 30px;
 margin-top: 40px;
 }
 
+.app {
+  margin-right: 0;
+}
+
 .section_recipes {
 padding-top: 100px;
 }
@@ -1412,7 +1416,7 @@ padding-top: 100px;
 -webkit-box-direction: normal;
     -ms-flex-direction: column;
         flex-direction: column;
-row-gap: 30px;
+row-gap: 50px;
 margin-top: 80px;
 margin-bottom: 80px;
 }
@@ -1420,18 +1424,11 @@ margin-bottom: 80px;
 .food_card {
 width: 100%;
 max-width: 350px;
-padding-bottom: 20px;
 padding-top: 10px;
 }
 
 .img-food {
 position: static;
-}
-
-.btn-orange,
-.btn-white {
-position: static;
-max-width: 300px;
 }
 
 .container_footer {
