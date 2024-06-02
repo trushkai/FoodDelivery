@@ -1144,6 +1144,7 @@ margin-top: 50px;
     -ms-transform: translateX(0px);
         transform: translateX(0px);
 opacity: 1;
+padding-bottom: 50px;
 }
 
 .services-title {
