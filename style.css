@@ -1301,9 +1301,9 @@ padding: 0 15px;
 }
 
 .section_banner {
-background-position:calc(100% - 0px) calc(100% - 350px);
+background-image: none;
 min-height: 400px;
-padding: 100px 50px 50px 50px;
+padding: 0 50px 50px 50px;
 }
 
 .banner__wrapper {
