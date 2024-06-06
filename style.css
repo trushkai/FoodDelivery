@@ -922,6 +922,17 @@ input {
   display: none;
 }
 
+@media (max-width: 1453px) {
+  .section_banner,
+  .section_about,
+  .section_services,
+  .section_download,
+  .section_recipes,
+  .footer {
+    overflow-x: hidden;
+  }
+}
+
 @media (max-width: 1010px) {
 .menu__burger {
 display: block;
